@@ -1,4 +1,4 @@
-# pratikumsesi2
+# Kumpulan Praktikum
 
 A new Flutter project.
 
